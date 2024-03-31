@@ -1,8 +1,7 @@
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class OpenGoogle {
-@test
-	public static void openGoogle() {
+	public static void Main(String args[]) {
 		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\SALESKEN\\selenium\\chromedriver.exe");
